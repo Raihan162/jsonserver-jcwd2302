@@ -449,41 +449,5 @@
     }
   ],
   "cart": [
-    {
-      "idProduct": 8,
-      "indexSize": 1,
-      "indexTopping": 0,
-      "indexSugar": 0,
-      "quantity": 1,
-      "userId": 10,
-      "id": 1
-    },
-    {
-      "idProduct": 5,
-      "indexSize": 2,
-      "indexTopping": 3,
-      "indexSugar": 1,
-      "quantity": 1,
-      "userId": 10,
-      "id": 2
-    },
-    {
-      "idProduct": 1,
-      "indexSize": 0,
-      "indexTopping": 0,
-      "indexSugar": 0,
-      "quantity": 6,
-      "userId": null,
-      "id": 3
-    },
-    {
-      "idProduct": 4,
-      "indexSize": 0,
-      "indexTopping": 0,
-      "indexSugar": 0,
-      "quantity": 1,
-      "userId": null,
-      "id": 4
-    }
   ]
 }
